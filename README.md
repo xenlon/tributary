@@ -1,1 +1,1 @@
-Ford virtual work experience by Forage.
+Simple backend application for sensor streaming system using flask and redis which captures and stores periodic engine temperature data and returns the current engine temperature and average engine temperature. The whole application is containerized using docker.
